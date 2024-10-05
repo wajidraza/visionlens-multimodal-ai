@@ -1,0 +1,7 @@
+{
+  "name": "visionlens-multimodal-ai",
+  "version": "1.0.0",
+  "description": "Real-time image diagnostic and visual question-answering tool capable of object segmentation, spatial bounding box detection, and scene captioning.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
